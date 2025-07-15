@@ -29,8 +29,3 @@
 ```bash
 # Install dependencies
 pip install numpy pandas geopandas gdal pyproj tqdm
-
-# Install library (development mode)
-git clone https://github.com/yourusername/lib-opsgeo.git
-cd lib-opsgeo
-pip install -e .
